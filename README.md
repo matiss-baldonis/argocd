@@ -1,0 +1,1 @@
+# Deploy using kubectl apply -f argocd/application/argocd.yaml
